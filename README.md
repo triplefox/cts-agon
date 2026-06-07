@@ -35,3 +35,5 @@ The Museum of Art and Digital Entertainment in Oakland, California supports play
 ### Credits
 
 By Cartooning the Screen, (c) James Hofmann 2026.
+
+I'm posting about Agon projects and other creative works on [Mastodon](https://pounced-on.me/@Triplefox).
