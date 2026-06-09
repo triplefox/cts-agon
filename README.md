@@ -32,6 +32,12 @@ Part of the BAD collective of independent game developers - we bring our games t
 The Museum of Art and Digital Entertainment in Oakland, California supports playable retro game preservation and indie games development.
 * [Check them out!](https://themade.org)
 
+### Newsletter
+
+#### 2026
+[June](newsletter-2026-6.md)
+[April](newsletter-2026-4.md)
+
 ### Credits
 
 By Cartooning the Screen, (c) James Hofmann 2026.
