@@ -1,5 +1,7 @@
 # Agon Computers
 
+![Argon Comic](https://triplefox.github.io/cts-agon/argon-000.png)
+
 ### Hello Convention Guests
 
 For general info on Agon consult the platform documentation:
