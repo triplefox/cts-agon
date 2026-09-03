@@ -14,6 +14,7 @@ For general info on Agon consult the platform documentation:
 
 This is my comics/gaming/computing project.
 
+* [Agon FAQs](https://triplefox.github.io/cts-agon/faqs.html)
 * [Agon Joystick](https://triplefox.github.io/cts-agon/joystick.html)
 
 The CTS characters can be found on my [Artfight](https://artfight.net/~triplefox/characters).
