@@ -50,6 +50,7 @@ The Museum of Art and Digital Entertainment in Oakland, California supports play
 ### Newsletter
 
 #### 2026
+[July-August](newsletter-2026-8.md)
 [June](newsletter-2026-6.md)
 [April](newsletter-2026-4.md)
 
