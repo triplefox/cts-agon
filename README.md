@@ -16,6 +16,7 @@ This is my comics/gaming/computing project.
 
 * [Agon FAQs](https://triplefox.github.io/cts-agon/faqs.html)
 * [Agon Joystick](https://triplefox.github.io/cts-agon/joystick.html)
+* [Agon I/O Cadence](https://github.com/triplefox/cts-agon/blob/main/agon-io-cadence.png)
 
 The CTS characters can be found on my [Artfight](https://artfight.net/~triplefox/characters).
 
