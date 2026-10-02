@@ -2,7 +2,7 @@
 
 ![Argon Comic](https://triplefox.github.io/cts-agon/argon-000.png)
 
-### Hello Convention Guests
+### Hello First Friday Folks
 
 For general info on Agon consult the platform documentation:
 * [Agon Platform Documentation](https://agonplatform.github.io/agon-docs/)
@@ -50,6 +50,7 @@ The Museum of Art and Digital Entertainment in Oakland, California supports play
 ### Newsletter
 
 #### 2026
+[September](newsletter-2026-9.md)
 [July-August](newsletter-2026-8.md)
 [June](newsletter-2026-6.md)
 [April](newsletter-2026-4.md)
